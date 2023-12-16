@@ -1,0 +1,2 @@
+WIDTH, HEIGHT = (640, 640)
+FPS = 24
